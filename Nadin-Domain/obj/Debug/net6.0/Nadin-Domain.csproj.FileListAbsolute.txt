@@ -1,0 +1,15 @@
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\bin\Debug\net6.0\Nadin-Domain.deps.json
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\bin\Debug\net6.0\Nadin-Domain.dll
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\bin\Debug\net6.0\Nadin-Domain.pdb
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\obj\Debug\net6.0\Nadin-Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\obj\Debug\net6.0\Nadin-Domain.AssemblyInfoInputs.cache
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\obj\Debug\net6.0\Nadin-Domain.AssemblyInfo.cs
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\obj\Debug\net6.0\Nadin-Domain.csproj.CoreCompileInputs.cache
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\obj\Debug\net6.0\Nadin-Domain.dll
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\obj\Debug\net6.0\refint\Nadin-Domain.dll
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\obj\Debug\net6.0\Nadin-Domain.pdb
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\obj\Debug\net6.0\ref\Nadin-Domain.dll
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\obj\Debug\net6.0\Nadin-Domain.sourcelink.json
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\bin\Debug\net6.0\Nadin-Domain.runtimeconfig.json
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\obj\Debug\net6.0\Nadin-Domain.csproj.AssemblyReference.cache
+C:\Users\noVin\source\codes\Project-Nadin\Nadin-Domain\obj\Debug\net6.0\Nadin-Domain.genruntimeconfig.cache
